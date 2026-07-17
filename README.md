@@ -42,7 +42,7 @@ The `password_checker()` function handles user interaction, running a loop that 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/password-strength-analyzer.git
+   git clone https://github.com/lalabha96/password-strength-analyzer.git
    ```
 2. Navigate into the project directory:
    ```
